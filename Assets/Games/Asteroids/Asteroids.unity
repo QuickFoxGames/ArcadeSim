@@ -223,10 +223,19 @@ MonoBehaviour:
   m_rotateSpeed: 200
   m_moveSpeed: 8
   m_moveAcceleration: 3
+  m_bulletDamage: 25
   m_bulletSpeed: 15
   m_shotDelay: 0.25
   m_bulletFlightTime: 4
   m_bulletPrefab: {fileID: 4807349320597142561, guid: 9ae752ec945431243a56aee1894ed21e, type: 3}
+  m_asteroidSpawnTime: 2.5
+  m_asteroidMinSpeed: 4
+  m_asteroidMaxSpeed: 9
+  m_asteroidFlightTime: 6
+  m_asteroidPrefab: {fileID: -5420462095039288037, guid: 09ce8b72c14f92d40bcd741393b938c0, type: 3}
+  m_asteroidLayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!60 &606104813
 PolygonCollider2D:
   m_ObjectHideFlags: 0
