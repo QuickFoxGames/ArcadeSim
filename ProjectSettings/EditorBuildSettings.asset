@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Games/Snake/Snake.unity
     guid: 3b607ec0f2864b54d861b661322bab46
+  - enabled: 1
+    path: Assets/Games/Pong/Pong.unity
+    guid: fdb3adbfd631f6a4cb7f4138c6f743d4
+  - enabled: 1
+    path: Assets/Games/Galaga/Galaga.unity
+    guid: 8e3d9ac203a5e7c4f84473978fb70610
+  - enabled: 1
+    path: Assets/Games/Asteroids/Asteroids.unity
+    guid: 65c12aa58fd123744981b17bf8833d47
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
